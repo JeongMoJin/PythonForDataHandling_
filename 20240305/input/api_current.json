@@ -1,0 +1,7 @@
+{"coord": {"lon": 128.6018, "lat": 35.8713},
+ "weather": [{"id": 501, "main": "Rain", "description": "보통 비", "icon": "10d"}], "base": "stations",
+ "main": {"temp": 280.06, "feels_like": 280.06, "temp_min": 280.06, "temp_max": 280.06, "pressure": 1013,
+          "humidity": 87}, "visibility": 8000, "wind": {"speed": 0.51, "deg": 30}, "rain": {"1h": 1.15},
+ "clouds": {"all": 100}, "dt": 1709616102,
+ "sys": {"type": 1, "id": 8124, "country": "KR", "sunrise": 1709589037, "sunset": 1709630633}, "timezone": 32400,
+ "id": 1835329, "name": "Daegu", "cod": 200}

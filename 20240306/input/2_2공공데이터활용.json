@@ -1,0 +1,30 @@
+{
+  "response": {
+    "body": {
+      "totalCount": 3,
+      "items": [
+        {
+          "tm": 0.7,
+          "addr": "대구광역시 남구 앞산순환로 540 충혼탑 주차장 앞 (대명동)",
+          "stationName": "충혼탑"
+        },
+        {
+          "tm": 1.4,
+          "addr": "대구 남구 성당로30길55 성명초등학교별관3층옥상 성명초등학교 별관 3층 옥상",
+          "stationName": "대명동"
+        },
+        {
+          "tm": 2.8,
+          "addr": "대구광역시 중구 남산로2길 125 대구명덕초등학교 (남산동)",
+          "stationName": "남산1동"
+        }
+      ],
+      "pageNo": 1,
+      "numOfRows": 10
+    },
+    "header": {
+      "resultMsg": "NORMAL_CODE",
+      "resultCode": "00"
+    }
+  }
+}

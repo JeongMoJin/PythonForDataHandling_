@@ -1,0 +1,30 @@
+{
+  "response": {
+    "body": {
+      "totalCount": 2,
+      "items": [
+        {
+          "sggName": "남구",
+          "umdName": "대명동",
+          "tmX": "342413.59582",
+          "tmY": "260818.699911",
+          "sidoName": "대구광역시"
+        },
+        {
+          "sggName": "군산시",
+          "umdName": "대명동",
+          "tmX": "174841.851987",
+          "tmY": "275485.334082",
+          "sidoName": "전라북도"
+        }
+      ],
+      "pageNo": 1,
+      "numOfRows": 10
+    },
+    "header": {
+      "resultMsg": "NORMAL_CODE",
+      "resultCode": "00"
+    }
+  }
+}
+
